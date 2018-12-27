@@ -1,0 +1,42 @@
+----------  Thu 27 Dec 18, hpt/lnx 1.4.0-sta 16-02-06
+
+----------  Thu 27 Dec 18, hpt/lnx 1.4.0-sta 16-02-06
+
+----------  Thu 27 Dec 18, hpt/lnx 1.4.0-sta 16-02-06
+7 21:09:10  pkt: /home/fido/localinb/5c253f74.tos [9:9999/1111.2222]
+4 21:09:10  Statistics:
+4 21:09:10       arc:     0   netMail:    0   echoMail:     1         CC:     1
+4 21:09:10     pkt's:     1      dupe:    0   passthru:     0   exported:     0
+4 21:09:10      msgs:     1       bad:    0      saved:     1      empty:     0
+4 21:09:10     Input:     1.00 mails/sec        Output:     0.00 mails/sec
+4 21:09:10                7.59 kb/sec
+4 21:09:10                7.59 kb total, processed in    0.000 seconds
+4 21:09:10  Areas summary:
+4 21:09:10  echo area welcome.fido - 1 msgs
+4 21:09:10  local area carbonArea - 1 msgs
+
+----------  Thu 27 Dec 18, hpt/lnx 1.4.0-sta 16-02-06
+
+----------  Thu 27 Dec 18, hpt/lnx 1.4.0-sta 16-02-06
+
+----------  Thu 27 Dec 18, hpt/lnx 1.4.0-sta 16-02-06
+
+----------  Thu 27 Dec 18, hpt/lnx 1.4.0-sta 16-02-06
+
+----------  Thu 27 Dec 18, hpt/lnx 1.4.0-sta 16-02-06
+7 22:12:54  pkt: /home/fido/localinb/5c2545cd.tos [6:606/1]
+4 22:12:54  Statistics:
+4 22:12:54       arc:     0   netMail:    0   echoMail:     1         CC:     1
+4 22:12:54     pkt's:     1      dupe:    0   passthru:     0   exported:     0
+4 22:12:54      msgs:     1       bad:    0      saved:     1      empty:     0
+4 22:12:54     Input:     1.00 mails/sec        Output:     0.00 mails/sec
+4 22:12:54                7.56 kb/sec
+4 22:12:54                7.56 kb total, processed in    0.000 seconds
+4 22:12:54  Areas summary:
+4 22:12:54  echo area welcome.fido - 1 msgs
+4 22:12:54  local area carbonArea - 1 msgs
+
+----------  Thu 27 Dec 18, hpt/lnx 1.4.0-sta 16-02-06
+
+----------  Thu 27 Dec 18, hpt/lnx 1.4.0-sta 16-02-06
+

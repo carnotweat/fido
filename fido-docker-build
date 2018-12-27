@@ -1,0 +1,7 @@
+#!/bin/bash
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+source $DIR/_common
+
+$DOCKER build --build-arg TZ=Europe/Amsterdam \
+--build-arg WORKDIR=/root \
+ $* -t $IMAGE .
